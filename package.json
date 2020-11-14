@@ -1,0 +1,16 @@
+{
+  "name": "gulp_sass",
+  "version": "1.0.0",
+  "description": "try1",
+  "main": "index.js",
+  "scripts": {
+    "sass:watch": "node-sass --watch src/scss/styles.scss -o src/css",
+    "sass:start": "node-sass src/scss/styles.scss -o src/css",
+    "build": "npm run sass:start && npm run sass:watch"
+  },
+  "author": "Max",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}

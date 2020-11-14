@@ -1,0 +1,17 @@
+.header {
+  width: 1194px;
+  margin: 28px auto 127px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end; }
+
+.logo_link {
+  color: #95E1D3;
+  text-transform: capitalize; }
+  .logo_link:hover {
+    color: #F38181; }
+
+.navigation {
+  display: flex;
+  width: 490px;
+  justify-content: space-between; }

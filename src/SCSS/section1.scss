@@ -1,0 +1,146 @@
+main {
+    margin: 0 auto;
+    width: 1446px;
+  }
+  
+  .pre_section {
+    text-align: center;
+    display: block;
+    margin-bottom: 67px;
+  }
+  
+  .section {
+    /* display: flex;
+    justify-content: space-between;
+    margin-bottom: 92px; */
+    /* width: 1138px; */
+    /* margin: 0 auto; */
+  }
+  
+  .section1_wrapper {
+    display: flex;
+    width: 1208px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 92px;
+    margin: 0 auto;
+  }
+  
+  .title {
+    display: block;
+    font-family: "Kaushan Script", cursive;
+    margin-bottom: 22px;
+  }
+  
+  .title_of_section {
+    text-transform: uppercase;
+    font-family: "Montserrat", sans-serif;
+    /* margin-bottom: 111px; */
+  }
+  
+  .title_of_section::after {
+    content: "";
+    display: block;
+    width: 61px;
+    height: 4px;
+    background-color: #f38181;
+    margin: 41px auto 0 auto;
+  }
+  
+  .card {
+    display: flex;
+    /* justify-content: space-around; */
+    align-items: flex-start;
+    width: 380px;
+    height: 69px;
+    margin-bottom: 100px;
+    /* margin-right: 71px; */
+  }
+  
+  .card_title {
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: rgb(51, 51, 51);
+  }
+  
+  .card_image {
+    margin-right: 29px;
+    width: 33px;
+    height: 32px;
+  }
+  
+  .card_info {
+    display: block;
+    text-align: left;
+  }
+  
+  .card_text {
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    color: rgb(153, 153, 153);
+    text-align: left;
+  }
+  
+  .pre_section_text {
+    font-family: "Roboto", sans-serif;
+    width: 941px;
+    margin: 46px auto auto auto;
+    margin-bottom: 91px;
+    color: #999999;
+  }
+  
+  .pre_section2 {
+    text-align: center;
+    margin-bottom: 46px;
+  }
+  
+  .card3 {
+    margin-right: 0;
+  }
+  
+  .section2 {
+    /* display: flex;
+    justify-content: center;
+    margin-bottom: 145px; */
+  }
+  
+  .card_from_second_section {
+    /* display: flex; */
+    width: 381px;
+    text-align: center;
+  }
+  
+  .mens_images {
+    padding-bottom: 31px;
+  }
+  
+  .second_section_text {
+    display: block;
+    text-align: center;
+  }
+  
+  .name {
+    padding-bottom: 15px;
+    font-family: "Montserrat", sans-serif;
+    color: #666666;
+    font-weight: 400;
+    font-size: 14px;
+    text-transform: uppercase;
+  }
+  
+  .profession {
+    font-family: "Roboto", sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    color: #b3b3b3;
+  }
+  
+  .section2_wrapper {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 145px;
+  }
+  

@@ -1,0 +1,27 @@
+$main_color1: #95E1D3;
+$main_color2: #F38181;
+
+.header {
+    width: 1194px;
+    margin: 28px auto 127px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+
+}
+
+.logo_link {
+    color: $main_color1;
+    text-transform: capitalize;
+
+    &:hover {
+        color: $main_color2;
+    }
+}
+
+.navigation {
+    display: flex;
+    width: 490px;
+    justify-content: space-between;
+}
+
